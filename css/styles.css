@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Poiret One', sans-serif;
+}
+
+h1 {
+  margin: 100px auto -25px auto;
+  font-size: 5.625rem;
+  color: #2b4f60;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #184d47;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+
+}
+
+h3 {
+  color: #845460;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem
+}
+
+hr{
+  border-color: #2b4f60;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 6%;
+}
+
+.top-container {
+  background-color:#bdc7c9;
+  position: relative;
+  padding-top: 5%;
+}
+
+.middle-container {
+margin: 0;
+background-color:#ead3cb;
+}
+
+.bottom-container {
+margin: 0;
+background-color: #bdc7c9;
+padding-top: 50px;
+}
+
+p {
+  color: #2b4f60;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+  top: 3%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20%;
+  top: 15%;
+}
+
+.icons {
+  font-size: 10px;
+  margin-top: 0px;
+  background-color:#bdc7c9;
+}
+
+.subline {
+  font-size: 1rem;
+  font-weight: normal;
+  margin-top: 50px;
+
+}
+
+.mountain-picture {
+  margin-top: 6%;
+}
+
+.my-image {
+  margin-top: 40px;
+}
+
+.footer-link {
+  color: #184d47
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+
+.logistics-img {
+  width: 13.5%;
+}
+
+.vessel-img {
+  width: 13.5%;
+
+}
+
+.trade-img {
+  width: 13.5%;
+}
+
+.data-science-img {
+  width: 13.5%;
+}
+
+.data-img {
+  width: 13.5%;
+}
+
+
+
+.BUTTON_IBF {
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+   color: #FFFFFF;
+   font-family: Helvetica;
+   font-size: 21px;
+   font-weight: 200;
+   padding: 9px;
+   background-color: #2B4F60;
+   border: solid #FFFFFF 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 35px auto 50px auto;
+}
+
+.BUTTON_IBF:hover {
+   background: #1E62D0;
+   border: solid #EAD3CB 1px;
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   border-radius: 5px;
+   text-decoration: none;
+}
